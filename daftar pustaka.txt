@@ -1,4 +1,5 @@
 1. https://edukasi.sindonews.com/read/15023/144/survei-ipnu-8067-mahasiswa-tak-dapat-pembelajaran-daring-dari-kampus-1588421157?showpage=all
 Survei IPNU: 80,67% Mahasiswa Tak Dapat Pembelajaran Daring dari Kampus
 
-2. 
+2. https://salamadian.com/sdlc-system-development-life-cycle/#1_Tahapan_Analisis_Sistem
+pengujian QoS = Iperf, = https://youtu.be/LFFdEaUgJl4
